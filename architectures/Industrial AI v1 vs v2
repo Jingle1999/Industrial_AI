@@ -1,0 +1,145 @@
+# Industrial AI v1 vs Industrial AI v2
+
+This document summarizes the evolution from classical Industrial AI (v1) toward modern, agentic, intent-driven Industrial AI (v2).
+
+The comparison is based on a layered view of industrial systems, spanning OT, MES, ERP, and AI decision layers.
+
+---
+
+## Industrial AI v1 — Data-Driven Automation
+
+### Core Characteristics
+Industrial AI v1 is primarily **data-driven**, retrospective, and analytics-focused.
+
+- Centralized data collection
+- Batch-oriented analytics
+- Optimization after the fact
+- Dashboards as the primary interface
+- Limited or no runtime decision authority
+
+### Typical Architecture
+- **Data Sources**
+  - PLC / SCADA
+  - Historians
+  - MES execution data
+  - ERP / Finance systems
+
+- **Analytics Layers**
+  - OT analytics (alarms, signals, machine events)
+  - MES analytics (OEE, downtime, yield)
+  - ERP analytics (orders, margins, supply risks)
+
+- **Outputs**
+  - Reports
+  - Dashboards
+  - Alerts
+  - Predictive insights (often offline)
+
+### Limitations
+- Decisions remain human-driven
+- AI explains *what happened*, not *what should happen*
+- No closed-loop execution
+- Poor handling of real-time disturbances
+- Optimization without governance can increase risk
+
+---
+
+## Industrial AI v2 — Intent-Driven, Agentic Systems
+
+### Core Characteristics
+Industrial AI v2 is **decision-centric**, real-time, and governed.
+
+- Intent-driven instead of data-driven
+- Decisions happen close to the source
+- Agents act with bounded authority
+- Continuous execution and adaptation
+- Governance and traceability built-in
+
+---
+
+## Key Architectural Shift
+
+### Context Layer (New Core Element)
+Industrial AI v2 introduces a **Context Layer** as semantic glue across OT, MES, and ERP.
+
+The context layer provides:
+- Asset models
+- Tag dictionaries
+- Work order and batch context
+- Genealogy and quality context
+- Business context (costs, SLAs, priorities)
+
+This layer turns raw data into *decision-ready state*.
+
+---
+
+## Industrial AI Agent Layer
+
+On top of the context layer operates the **Industrial AI Agent Layer**, consisting of specialized agents:
+
+- **RCA Agents**  
+  Explain *why* something happened
+
+- **Playbook Agents**  
+  Recommend or execute predefined recovery actions
+
+- **Impact Agents**  
+  Evaluate business, quality, and delivery impact
+
+- **Optimization Agents**  
+  Improve performance within governed boundaries
+
+### Key Difference to v1
+Agents do not just analyze — they:
+- Decide
+- Act
+- Escalate
+- Learn
+
+All actions are:
+- Traceable
+- Governed
+- Auditable
+
+---
+
+## Execution Model Comparison
+
+| Aspect | Industrial AI v1 | Industrial AI v2 |
+|------|------------------|------------------|
+| Driver | Data | Intent |
+| Timing | Retrospective | Real-time |
+| Control | Human-in-the-loop | Human-on-the-loop |
+| AI Role | Analytics | Decision & Execution |
+| Governance | Weak / External | Built-in |
+| Learning | Model retraining | Decision memory |
+| Risk Handling | After the fact | Preventive & bounded |
+
+---
+
+## Why This Matters
+
+Industrial AI v2 enables:
+- Cognitive Digital Twins (not just simulations)
+- Closed-loop control with safety guarantees
+- Scalable autonomy without loss of trust
+- Alignment of shopfloor actions with business intent
+
+It shifts industry from:
+> "Optimizing data"  
+to  
+> "Operating decisions"
+
+---
+
+## Key Takeaway
+
+Industrial AI v2 is not about more data or better dashboards.
+
+It is about:
+- **How decisions are made**
+- **Where decisions are made**
+- **Who (or what) is allowed to act**
+- **Under which governance constraints**
+
+This transition marks the move from automation to cognition in industrial systems.
