@@ -1,0 +1,45 @@
+# Edge-Native Intelligence
+
+**Concept Area:** Edge AI, Embedded Intelligence, Cyber-Physical Systems
+
+---
+
+## Summary
+
+Edge-native intelligence refers to AI systems designed **from the ground up** to operate:
+- Close to physical processes
+- With low latency
+- Under limited compute and connectivity
+
+Unlike cloud-first AI, edge-native systems assume:
+- Intermittent connectivity
+- Hard real-time constraints
+- Safety-critical operation
+
+---
+
+## Industrial AI Relevance
+
+Most industrial intelligence must live at the edge:
+- Controllers
+- Robots
+- Machines
+- Sensors
+
+Cloud AI is advisory; edge AI is operational.
+
+---
+
+## Industrial AI Lens
+
+✅ Strengths:
+- Deterministic behavior
+- Low latency
+- Increased robustness
+
+⚠️ Constraints:
+- Limited model size
+- Update complexity
+- Verification requirements
+
+➡️ Industrial AI is **edge-first by necessity**, cloud-second by convenience.
