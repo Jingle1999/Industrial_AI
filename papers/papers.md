@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This section collects **foundational and forward-looking research papers** relevant to Industrial AI.
+This section collects links **foundational and forward-looking research papers** relevant to Industrial AI.
 
 The goal is **not volume**, but **conceptual leverage**:
 papers that change how we think about intelligence, autonomy, orchestration, and learning in physical, industrial systems.
