@@ -1,0 +1,49 @@
+# Agentic Orchestration
+
+**Concept Area:** Agentic Systems & Multi-Agent Coordination  
+**Key Influences:** MAS, LLM Agents, Workflow Orchestration
+
+---
+
+## Summary
+
+Agentic orchestration refers to structuring intelligence as **multiple specialized agents** that:
+- Have distinct roles
+- Coordinate via protocols
+- Collaborate toward shared objectives
+
+Modern agentic orchestration often uses:
+- Role-based agents
+- Planning + tool use
+- Hierarchical or federated control
+
+---
+
+## Industrial AI Relevance
+
+Agentic orchestration maps well to industrial realities:
+- Multiple subsystems
+- Heterogeneous time scales
+- Distributed decision authority
+
+Examples:
+- Scheduler agent
+- Optimization agent
+- Monitoring agent
+- Human-override agent
+
+---
+
+## Industrial AI Lens
+
+✅ Advantages:
+- Modularity
+- Fault isolation
+- Scalable autonomy
+
+⚠️ Risks:
+- Emergent behavior
+- Coordination failure
+- Latency and deadlocks
+
+➡️ Industrial AI requires **explicit authority boundaries, arbitration, and fail-safe supervisors**.
