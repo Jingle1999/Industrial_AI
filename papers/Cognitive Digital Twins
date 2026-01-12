@@ -1,0 +1,41 @@
+# Cognitive Digital Twins
+
+**Related Fields:** Digital Twins, World Models, Cognitive Systems
+
+---
+
+## Summary
+
+Cognitive Digital Twins extend traditional digital twins by adding:
+- Learning components
+- Predictive reasoning
+- Decision-making capabilities
+
+They do not only mirror the physical system but **reason about it**, anticipate futures, and suggest actions.
+
+---
+
+## Industrial AI Relevance
+
+Cognitive Digital Twins are a core pillar of Industrial AI:
+- Enable simulation-based optimization
+- Support predictive maintenance
+- Allow safe testing of control strategies
+
+They operate across the asset lifecycle.
+
+---
+
+## Industrial AI Lens
+
+✅ Core strengths:
+- Physics-grounded reasoning
+- Safe experimentation
+- Human-interpretable insights
+
+⚠️ Challenges:
+- Model drift
+- Integration complexity
+- Data/physics alignment
+
+➡️ A cognitive digital twin is **the preferred substrate for learning and autonomy in industry**.
