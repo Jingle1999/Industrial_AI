@@ -93,3 +93,91 @@ The paper stops at decision support.
 Decision governance, decision contracts,
 authority delegation, and autonomous execution
 are outside the scope of the proposed framework.
+
+---
+
+## Rethinking Industrial Artificial Intelligence:
+A Unified Foundation Framework
+
+Authors:
+Jay Lee, Hanqi Su
+
+Year:
+2025
+
+arXiv:
+https://arxiv.org/abs/2504.01797
+
+PDF:
+https://arxiv.org/pdf/2504.01797.pdf
+
+### Summary
+
+The paper argues that Industrial AI has focused
+too heavily on algorithms and models while
+underestimating the importance of domain knowledge.
+
+To address this gap, the authors propose a unified
+Industrial AI Foundation Framework consisting of:
+
+- Knowledge Module
+- Data Module
+- Model Module
+
+The framework aims to provide a more systematic
+foundation for Industrial AI applications.
+
+### Key Concepts
+
+- Knowledge-Centric AI
+- Industrial AI Foundation
+- Domain Knowledge
+- Data Integration
+- Model Integration
+
+### Industrial AI Relevance
+
+Industrial systems operate in environments
+governed by physical constraints, engineering rules,
+and operational context.
+
+The paper emphasizes that models alone are insufficient.
+
+Domain knowledge must be captured and integrated
+as a first-class component of Industrial AI systems.
+
+### Industrial AI Lens
+
+✔ Knowledge is as important as models
+
+✔ Industrial AI requires domain understanding
+
+✔ Data without context has limited value
+
+✔ Physical systems require engineering constraints
+
+### Relation to Cognitive Digital Twins
+
+The framework supports the idea that intelligent
+digital twins should combine:
+
+- Data
+- Domain Knowledge
+- Models
+- Context
+
+rather than relying on predictive models alone.
+
+### Relation to Industrial Decision Intelligence Architecture (IDIA)
+
+Data Layer
+↓
+Knowledge Layer
+
+Observation:
+
+The paper provides strong support for the
+Knowledge Layer concept.
+
+However, it does not extend into decision-making,
+governance, authority management, or autonomous execution.
