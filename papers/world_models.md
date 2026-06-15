@@ -67,5 +67,85 @@ World models align naturally with:
 - Learned world models should complement, not replace, first-principles models
 - Abstraction is essential for scalability in real-world systems
 
+
+---
+
+## AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents
+
+Author:
+Petr Anokhin et al.
+
+Year:
+2024
+
+arXiv:
+https://arxiv.org/abs/2407.04363
+
+PDF:
+https://arxiv.org/pdf/2407.04363.pdf
+
+### Summary
+
+AriGraph proposes a world model architecture that combines:
+
+- Semantic Knowledge Graphs
+- Episodic Memory
+- Environmental State Tracking
+- Planning and Decision Support
+
+The authors argue that unstructured memory is insufficient
+for complex reasoning and autonomous decision making.
+
+Instead, agents require structured representations of
+their environment that evolve over time and preserve
+relationships between entities.
+
+### Key Concepts
+
+- Knowledge Graph World Models
+- Episodic Memory
+- State Representation
+- Planning
+- Agent Reasoning
+
+### Industrial AI Relevance
+
+This paper is highly relevant for Industrial AI because:
+
+- Manufacturing systems are stateful environments
+- Decisions depend on context and history
+- Agents require structured world representations
+- Autonomous operation requires environmental awareness
+
+AriGraph provides a practical example of how world models
+can evolve from static representations into decision-support
+infrastructure.
+
+### Industrial AI Lens
+
+- World Models are not only predictive but operational
+- Context emerges from relationships and state transitions
+- Memory is a critical component of autonomous reasoning
+- Structured representations outperform isolated observations
+
+### Relation to virtauto / IDIA
+
+AriGraph aligns closely with the following architecture:
+
+Data Layer
+↓
+Knowledge Layer
+↓
+Context Layer
+↓
+Decision Layer
+
+The paper provides strong support for the idea that
+autonomous decision-making requires a structured world model
+before higher-level decision logic can emerge.
+
+Unlike many agent architectures, AriGraph explicitly
+emphasizes the importance of environmental state,
+memory, and knowledge representation.
 ---
 
