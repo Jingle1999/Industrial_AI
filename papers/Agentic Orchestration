@@ -47,3 +47,81 @@ Examples:
 - Latency and deadlocks
 
 ➡️ Industrial AI requires **explicit authority boundaries, arbitration, and fail-safe supervisors**.
+
+---
+
+## Related Papers
+
+### Plan-on-Graph (PoG): Self-Correcting Adaptive Planning of Large Language Models on Knowledge Graphs
+
+Authors:
+Liyi Chen et al.
+
+Year:
+2024
+
+arXiv:
+https://arxiv.org/abs/2410.23875
+
+PDF:
+https://arxiv.org/pdf/2410.23875.pdf
+
+### Summary
+
+Plan-on-Graph (PoG) proposes a planning framework that
+combines knowledge graphs, memory, reflection, and
+self-correcting reasoning.
+
+Instead of generating actions directly, the system
+decomposes complex goals into smaller planning steps and
+adaptively navigates through structured knowledge.
+
+### Key Concepts
+
+- Knowledge Graph Navigation
+- Goal Decomposition
+- Multi-Step Planning
+- Adaptive Reasoning
+- Self-Correction
+
+### Industrial AI Relevance
+
+Industrial systems rarely solve problems in a single step.
+
+Production scheduling, energy optimization, maintenance,
+and supply chain coordination require sequences of
+interdependent decisions.
+
+PoG demonstrates how planning can emerge from structured
+knowledge representations instead of isolated model outputs.
+
+### Industrial AI Lens
+
+- Planning is distinct from prediction
+- Complex decisions require intermediate states
+- Knowledge graphs provide navigable decision spaces
+- Self-correction improves robustness
+
+### Relation to Agentic Orchestration
+
+PoG supports the idea that orchestration should be built
+around explicit planning and coordination mechanisms
+rather than direct action generation.
+
+The framework is particularly relevant for orchestrating
+multiple bounded decisions within larger decision graphs.
+
+### Relation to IDIA
+
+Knowledge Layer
+↓
+Context Layer
+↓
+Decision Layer
+
+Observation:
+
+The paper focuses on planning and reasoning.
+
+Governance, authority delegation, execution control,
+and human approval structures remain outside its scope.
