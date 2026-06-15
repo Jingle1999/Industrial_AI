@@ -39,3 +39,57 @@ They operate across the asset lifecycle.
 - Data/physics alignment
 
 ➡️ A cognitive digital twin is **the preferred substrate for learning and autonomy in industry**.
+
+## Related Papers
+
+### Actionable Cognitive Twins for Decision Making in Manufacturing
+
+Authors:
+Jože M. Rožanec, Jinzhi Lu, Jan Rupnik et al.
+
+Year:
+2021
+
+Link:
+https://arxiv.org/abs/2103.12854
+
+Summary:
+
+This paper extends traditional Digital Twins with
+knowledge graphs and cognitive capabilities to support
+decision-making in manufacturing environments.
+
+The proposed architecture introduces semantic context,
+domain knowledge, and reasoning mechanisms that allow
+a Digital Twin not only to represent reality but also
+to generate actionable recommendations.
+
+Key Concepts:
+
+- Knowledge Graphs
+- Manufacturing Context
+- Decision Support
+- Cognitive Twins
+- Semantic Reasoning
+
+Industrial AI Relevance:
+
+The paper provides a practical bridge between
+Digital Twins and Decision Intelligence by
+showing how structured knowledge can be used
+to support manufacturing decisions.
+
+IDIA Mapping:
+
+Knowledge Layer
+↓
+Context Layer
+↓
+Decision Support
+
+Observation:
+
+The paper stops at decision support.
+Decision governance, decision contracts,
+authority delegation, and autonomous execution
+are outside the scope of the proposed framework.
