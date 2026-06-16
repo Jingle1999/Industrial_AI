@@ -15,8 +15,16 @@ A decision case captures:
 Source:
 NASA Lessons Learned Database
 
+Domain:
+Space Exploration
+
 Situation:
 High uncertainty during mission development.
+
+Constraints:
+- High mission cost
+- No recovery after launch
+- Safety critical environment
 
 Decision:
 Extensive simulation before deployment.
@@ -24,8 +32,15 @@ Extensive simulation before deployment.
 Outcome:
 Reduced operational risk.
 
-Lesson:
+Lesson Learned:
 Simulation is preferable when failure costs are high.
 
 Potential Pattern:
 Simulate Before Commit
+
+Decision Category:
+Risk Management
+
+Confidence:
+High
+
