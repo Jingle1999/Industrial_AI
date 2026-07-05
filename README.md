@@ -1,4 +1,4 @@
-# Industrial_AI
+# Decision Corpus
 
 > **The Industrial Decision Corpus**
 >
