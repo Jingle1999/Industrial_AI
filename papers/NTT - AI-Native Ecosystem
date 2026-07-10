@@ -1,0 +1,34 @@
+AI-Native Ecosystem: Orchestration with Purpose (NTT DATA, 2026)
+
+Summary
+
+This whitepaper explores how Generative AI transforms enterprise applications into AI-native ecosystems centered on semantics, orchestration, governance, and trust. It introduces concepts such as semantic modernization, AI orchestration, trust assurance, and Cognitive Confidence Levels (CCLs) for evaluating AI-assisted decision processes.
+
+Why it matters
+
+Although primarily focused on AI-native application architectures, the paper highlights several concepts highly relevant to Industrial Decision Intelligence:
+
+AI Orchestration and human-AI collaboration
+Semantic architectures and explainability
+Decision traceability and governance
+Trust assurance for AI-generated recommendations
+The shift from application-centric to intelligence-centric enterprise architectures
+
+Relation to virtauto
+
+The paper aligns with virtauto's vision of an Enterprise Decision Layer by emphasizing governance, traceability, and orchestration. While the paper focuses on AI-native applications, virtauto extends this perspective by placing Decision Intelligence and Organizational Agency at the center of enterprise architecture.
+
+Key Concepts
+
+AI-Native Architecture
+AI Orchestration
+Semantic Layer
+Trust Assurance
+Cognitive Confidence Levels (CCL)
+Governance
+Explainable AI
+Human-AI Collaboration
+
+Official Source
+
+https://www.nttdata.com/
